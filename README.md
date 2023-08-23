@@ -1,2 +1,3 @@
 # GameVerse
  
+Static Website
